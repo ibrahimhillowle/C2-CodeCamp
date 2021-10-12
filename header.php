@@ -8,7 +8,9 @@
 <body>
 
 <div class="navbar">
-  <a href="#home">Home</a>
+  <div class="subnav-logo">
+    <a href="">codecamp</a>
+  </div>
   <div class="subnav">
     <button class="subnavbtn">About <i class="fa fa-caret-down"></i></button>
     <div class="subnav-content">
@@ -26,16 +28,7 @@
       <a href="#express">Express</a>
     </div>
   </div> 
-  <div class="subnav">
-    <button class="subnavbtn">Partners <i class="fa fa-caret-down"></i></button>
-    <div class="subnav-content">
-      <a href="#link1">Link 1</a>
-      <a href="#link2">Link 2</a>
-      <a href="#link3">Link 3</a>
-      <a href="#link4">Link 4</a>
-    </div>
-
-
+</div> 
 </body>
 </html>
 
