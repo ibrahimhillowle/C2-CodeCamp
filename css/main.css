@@ -1,6 +1,7 @@
 body {
   font-family: Arial, Helvetica, sans-serif;
   margin: 0;
+  background-color: white;
 }
 
 .navbar {
@@ -9,8 +10,7 @@ body {
 }
 
 .navbar a {
-  float: left;
-  font-size: 5px;
+  font-size: 14px;
   color: white;
   text-align: center;
   padding: 14px 16px;
@@ -22,8 +22,14 @@ body {
   overflow: hidden;
 }
 
+.subnav-logo{
+  float: left;
+  overflow: hidden;
+  padding-top: 10px;
+}
+
 .subnav .subnavbtn {
-  font-size: 5px;  
+  font-size: 14px;  
   border: none;
   outline: none;
   color: white;
@@ -33,9 +39,7 @@ body {
   margin: 0;
 }
 
-.navbar a:hover, .subnav:hover .subnavbtn {
-  background-color: red;
-}
+
 
 .subnav-content {
   display: none;
@@ -60,3 +64,4 @@ body {
 .subnav:hover .subnav-content {
   display: block;
 }
+
