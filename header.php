@@ -3,7 +3,7 @@
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<link rel ="stylesheet" href="css/main.css">
+<link rel="stylesheet" href="css/main.css">
 </head>
 <body>
 
@@ -34,14 +34,8 @@
       <a href="#link3">Link 3</a>
       <a href="#link4">Link 4</a>
     </div>
-  </div>
-  <a href="#contact">Contact</a>
-</div>
 
-<div style="padding:0 16px">
-  <h3>Subnav/dropdown menu inside a Navigation Bar</h3>
-  <p>Hover over the "about", "services" or "partners" link to see the sub navigation menu.</p>
-</div>
 
 </body>
 </html>
+
