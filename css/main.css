@@ -242,3 +242,8 @@ body {
   margin: 0 auto;
 }
 
+.song{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
