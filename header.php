@@ -9,23 +9,38 @@
 
 <div class="navbar">
   <div class="subnav-logo">
-    <a href="">codecamp</a>
+    <a href="index.php">codecamp</a>
   </div>
   <div class="subnav">
-    <button class="subnavbtn">About <i class="fa fa-caret-down"></i></button>
+    <button class="subnavbtn">Informatie <i class="fa fa-caret-down"></i></button>
     <div class="subnav-content">
-      <a href="#company">Company</a>
-      <a href="#team">Team</a>
-      <a href="#careers">Careers</a>
+      <a href="jamesbond.php">Jamesbond</a>
+      <a href="darthvader.php">Darth vader</a>
+      <a href="timothydalton.php">Timothy dalton</a>
+      <a href="lukeskywalker.php">Luke skywalker</a>
+    </div>
+  </div>
+  <div class="subnav">
+    <button class="subnavbtn">Songteksten <i class="fa fa-caret-down"></i></button>
+    <div class="subnav-content">
+      <a href="madness-van-muse.php">Madness - muse</a>
+      <a href="#team">Transylvia - Iron maiden</a>
+      <a href="#careers">Plug in baby - Muse</a>
+      <a href="bohemianrhapsody.php">Bohemian rhapsody - queen</a>
+      <a href="killerqueen.php">Killer queen - Queen</a>
+      <a href="wearethechampions.php">We are the champions - Queen</a>
+      <a href="uprising-baby.php">Uprising - My baby</a>
+      <a href="uprising-muse.php">Uprising - Muse</a>
     </div>
   </div> 
   <div class="subnav">
-    <button class="subnavbtn">Services <i class="fa fa-caret-down"></i></button>
+    <button class="subnavbtn">Overig <i class="fa fa-caret-down"></i></button>
     <div class="subnav-content">
-      <a href="#bring">Bring</a>
-      <a href="#deliver">Deliver</a>
-      <a href="#package">Package</a>
-      <a href="#express">Express</a>
+      <a href="kettingzaag.php">Kettingzagen</a>
+      <a href="video.php">Links naar video site</a>
+      <a href="hamer.php">Hamer</a>
+      <a href="boeken.php">boeken</a>
+      <a href="cirkelzaag.php">Cirkelzaag</a>
     </div>
   </div> 
 </div> 
