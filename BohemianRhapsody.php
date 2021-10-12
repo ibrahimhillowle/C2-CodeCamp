@@ -28,6 +28,8 @@
                         Little high, little low,
                         Any way the wind blows doesn't really matter to
                         Me, to me
+                    </p>
+                    <p>
                         Mamaaa,
                         Just killed a man,
                         Put a gun against his head, pulled my trigger,
@@ -38,6 +40,8 @@
                         Didn't mean to make you cry,
                         If I'm not back again this time tomorrow,
                         Carry on, carry on as if nothing really matters
+                    </p>
+                    <p>
                         Too late, my time has come,
                         Sends shivers down my spine, body's aching all
                         The time
@@ -46,12 +50,16 @@
                         Mama, oooh
                         I don't want to die,
                         I sometimes wish I'd never been born at all.
+                    </p>    
+                    <p>
                         I see a little silhouetto of a man,
                         Scaramouch, Scaramouch, will you do the Fandango!
                         Thunderbolts and lightning, very, very frightening me
                         Galileo, Galileo
                         Galileo, Galileo
                         Galileo, Figaro - magnificoo
+                    </p>  
+                    <p>
                         I'm just a poor boy nobody loves me
                         He's just a poor boy from a poor family,
                         Spare him his life from this monstrosity
@@ -66,6 +74,8 @@
                         Oh mama mia, mama mia, mama mia, let me go
                         Beelzebub has a devil put aside for me, for me,
                         For meee
+                    </p>
+                    <p>
                         So you think you can stop me and spit in my eye
                         So you think you can love me and leave me to die
                         Oh, baby, can't do this to me, baby,
