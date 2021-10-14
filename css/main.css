@@ -27,6 +27,14 @@ body {
   overflow: hidden;
 }
 
+.subnav-time {
+  float: right;
+  overflow: hidden;
+  color: white;
+  padding-top: 14px;
+  padding-right: 10px;
+}
+
 .subnav-logo{
   float: left;
   overflow: hidden;
