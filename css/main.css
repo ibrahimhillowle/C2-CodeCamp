@@ -68,7 +68,23 @@ body {
   background:#4682b4 ;
 }
 
+.linkP{
+  background-color: #494a4e;
+}
 
+.Vlink-1 img{
+  width: 88%;
+  border-radius: 4%;
+}
+
+.Vlink-2 img{
+  border-radius: 4%;
+}
+
+.Vlink-3 img{
+  width: 38%;
+  border-radius: 4%;
+}
 
 .subnav-content {
   display: none;
@@ -146,4 +162,37 @@ white-space: pre;
 
 .lyrics img{
   border-radius: 4%;
+}
+
+.videoLinks{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  
+}
+
+.videoLinks a{
+  text-decoration: none;
+  color: black;
+}
+
+.videoLinks a:visited{
+  color: grey;
+}
+
+.videoLinks a:hover{
+  color: #4682b4;
+}
+
+.Vlink-1{
+  padding: 10px;
+}
+
+.Vlink-2{
+  padding: 10px;
+}
+
+.Vlink-3{
+  padding: 10px;
 }
