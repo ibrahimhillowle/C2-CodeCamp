@@ -61,14 +61,14 @@ body {
 }
 
 .red{
-  background: red;
+  background:#cc0000;
 }
 
 .subnav-content {
   display: none;
   position: absolute;
   left: 0;
-  background-color: red;
+  background-color: #cc0000;
   width: 100%;
   z-index: 1;
 }
