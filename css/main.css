@@ -64,6 +64,12 @@ body {
   background:#cc0000;
 }
 
+.blue{
+  background:#4682b4 ;
+}
+
+
+
 .subnav-content {
   display: none;
   position: absolute;
