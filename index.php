@@ -9,8 +9,9 @@
 <body>
 <?php require_once 'header.php'; ?>
 <div class="container">
-    <h1>Info</h1>
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia nulla dolorum enim quia cumque animi, possimus earum qui a fugiat dolorem officia sed inventore laudantium, recusandae quas iusto dolore vitae.</p>
+    <h1>Over deze website.</h1>
+    <p>Deze website heeft voor ieder wat wils. van songteksten tot informatie over verschillende soorten gereedschap. Ook kan je verschillende info vinden over films.</p>
+    <img src="img/steve.png" alt="">
 </div>
     
     
