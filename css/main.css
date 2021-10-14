@@ -112,9 +112,14 @@ footer{
   margin:0
 }
 .container{
-  width: 660px;
+  width: 970px;
   margin: 0 auto;
 }
+
+.container h1{
+  padding: 20px;
+}
+
 
 .song{
   display: flex;
@@ -129,5 +134,10 @@ footer{
   align-items: center;
 background: white;
 padding: 10px;
-border-radius: 2%;
+border-radius: 4%;
+white-space: pre;
+}
+
+.lyrics img{
+  border-radius: 4%;
 }
