@@ -164,6 +164,16 @@ white-space: pre;
 box-shadow: 26px 10px 15px -3px rgba(0,0,0,0.1);
 }
 
+.informatie{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+background: white;
+padding: 10px;
+border-radius: 4%;
+box-shadow: 26px 10px 15px -3px rgba(0,0,0,0.1);
+}
+
 .lyrics img{
   border-radius: 4%;
 }
