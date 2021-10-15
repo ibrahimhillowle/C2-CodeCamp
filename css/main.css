@@ -158,6 +158,7 @@ background: white;
 padding: 10px;
 border-radius: 4%;
 white-space: pre;
+box-shadow: 26px 10px 15px -3px rgba(0,0,0,0.1);
 }
 
 .lyrics img{
