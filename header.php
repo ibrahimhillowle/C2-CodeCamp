@@ -71,7 +71,9 @@
   <div class="subnav">
     <button class="subnavbtn">Dranken <i class="fa fa-caret-down"></i></button>
     <div class="subnav-content">
-      <a href="Frissdrank.php">FrissDrank</a>
+      <a href="7Up.php">7 Up</a>
+      <a href="Cola.php">Coca Cola</a>
+      <a href="Sinas.php">Sinas</a>
       <a href="Warmedrank.php">WarmeDrank</a>
     </div>
   </div>

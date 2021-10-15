@@ -76,6 +76,10 @@ body {
   background:#4682b4 ;
 }
 
+.orange{
+  background-color: #b97d4b;
+}
+
 .linkP{
   background-color: #494a4e;
 }
@@ -92,6 +96,10 @@ body {
 .Vlink-3 img{
   width: 38%;
   border-radius: 4%;
+}
+
+.FrissdrankImg{
+  width: 200px;
 }
 
 .subnav-content {
