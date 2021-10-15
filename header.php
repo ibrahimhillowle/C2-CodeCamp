@@ -28,8 +28,8 @@
     <button class="subnavbtn">Songteksten <i class="fa fa-caret-down"></i></button>
     <div class="subnav-content">
       <a href="madness-van-muse.php">Madness - muse</a>
-      <a href="#team">Transylvia - Iron maiden</a>
-      <a href="#careers">Plug in baby - Muse</a>
+      <a href="Transylvia-Iron-Maiden.php">Transylvia - Iron maiden</a>
+      <a href="Plug-in-baby-van-Muse.php">Plug in baby - Muse</a>
       <a href="bohemianrhapsody.php">Bohemian rhapsody - queen</a>
       <a href="killerqueen.php">Killer queen - Queen</a>
       <a href="wearethechampions.php">We are the champions - Queen</a>
