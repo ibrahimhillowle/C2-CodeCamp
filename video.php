@@ -16,19 +16,19 @@
     <div class="videoLinks">
         <div class="Vlink-1">
             <h1>
-                <a href="https://www.videoland.com/nl/">VideoLand</a>
+                <a href="https://www.videoland.com/nl/" target="_blank"  >VideoLand</a>
             </h1>
             <img src="img/videoland.jpg" alt="VideoLand">
         </div>
         <div class="Vlink-2">
             <h1>
-                <a href="https://www.fandango.com/">Movies.com</a>
+                <a href="https://www.fandango.com/" target="_blank">Movies.com</a>
             </h1>
             <img src="img/movie.jpg" alt="Movie.com">
         </div>
         <div class="Vlink-3">
             <h1>
-                <a href="https://www.imdb.com/">IMDB</a>
+                <a href="https://www.imdb.com/" target="_blank">IMDB</a>
             </h1>
             <img src="img/imdb.png" alt="IMDB">
         </div>
