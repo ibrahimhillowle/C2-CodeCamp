@@ -147,7 +147,7 @@ footer{
 }
 
 .container h1{
-  padding: 20px;
+  padding: 20px 0;
 }
 
 
@@ -156,6 +156,7 @@ footer{
   justify-content: space-between;
   align-items: center;
   padding: 10px;
+
 }
 
 .lyrics{
