@@ -19,6 +19,7 @@
         title="time now" target="_blank" rel="nofollow"></a>
       <script type="text/javascript" src="//w.24timezones.com/l.js" async></script>
     </div>
+
     <div class="subnav">
       <button class="subnavbtn">Informatie <i class="fa fa-caret-down"></i></button>
       <div class="subnav-content">
@@ -28,6 +29,7 @@
         <a href="lukeskywalker.php">Luke skywalker</a>
       </div>
     </div>
+
     <div class="subnav">
       <button class="subnavbtn">Songteksten <i class="fa fa-caret-down"></i></button>
       <div class="subnav-content">
@@ -41,34 +43,40 @@
         <a href="uprising-muse.php">Uprising - Muse</a>
       </div>
     </div>
+
     <div class="subnav">
       <button class="subnavbtn">Overig <i class="fa fa-caret-down"></i></button>
       <div class="subnav-content">
- 
+
         <a href="video.php">Links naar video site</a>
-        <a href="hamer.php">Hamer</a>
+
         <a href="boeken.php">boeken</a>
-      
+
       </div>
     </div>
+
     <div class="subnav">
-    <button class="subnavbtn">gereedschap <i class="fa fa-caret-down"></i></button>
-    <div class="subnav-content">
-    <a href="cirkelzaag.php">Cirkelzaag</a>
-    <a href="kettingzaag.php">Kettingzagen</a>
-    <a href="schroevendraaiers.php">schroevendraaiers</a>
+      <button class="subnavbtn">gereedschap <i class="fa fa-caret-down"></i></button>
+      <div class="subnav-content">
+        <a href="cirkelzaag.php">Cirkelzaag</a>
+        <a href="kettingzaag.php">Kettingzagen</a>
+        <a href="schroevendraaiers.php">schroevendraaiers</a>
+        <a href="handzagen.php">handzaag</a>
+        <a href="hamer.php">Hamer</a>
+      </div>
     </div>
-  </div>
-  </div>
-  </div> 
+
+ 
+ 
   <div class="subnav">
     <button class="subnavbtn">Dranken <i class="fa fa-caret-down"></i></button>
     <div class="subnav-content">
       <a href="Frissdrank.php">FrissDrank</a>
       <a href="Warmedrank.php">WarmeDrank</a>
     </div>
-  </div> 
-</div> 
+  </div>
+
+  </div>
 </body>
 
 </html>
