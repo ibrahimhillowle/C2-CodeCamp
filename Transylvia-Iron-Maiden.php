@@ -10,10 +10,10 @@
 
 <div class="container">
 <h1>Transylvia” van Iron Maiden</h1>
-<div class="song">
-    
 
-    
+
+ <div class="song">
+        
 <p class ="lyrics">
 Left Brain, Wolf Haley
 Golf Wang, Free Earl, uh
@@ -87,9 +87,11 @@ It's because, Left Brain, Wolf Haley, Free Earl, Golf Wang
 Golf Wang, Golf Wang, Golf Wang, Golf Wang
 Golf Wang, Golf Wang, Golf Wang, Golf Wang
 Golf Wang, Golf Wang, Golf Wang, Golf Wang
+    
 <img src="img/Iron_Maiden_(1980).jpg" alt="Transylvia” van Iron Maiden">
 </p>
-</div>
+
+ </div>
 </div>
 
 <footer>
