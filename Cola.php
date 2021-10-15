@@ -7,7 +7,7 @@
 <div class="container">
 
     <h1>Coca Cola</h1>
-    <h2 STYLE="font-style: italic; color: grey;">Kan ook warm gedronken worden ~ Toon</h2>
+    <h2 STYLE="font-style: italic; color: #737373;">Kan ook warm gedronken worden ~ Toon</h2>
 <div class="song">
 
     <p class ="lyrics">
