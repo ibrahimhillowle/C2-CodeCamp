@@ -47,6 +47,13 @@
       <a href="cirkelzaag.php">Cirkelzaag</a>
     </div>
   </div> 
+  <div class="subnav">
+    <button class="subnavbtn">Dranken <i class="fa fa-caret-down"></i></button>
+    <div class="subnav-content">
+      <a href="Frissdrank.php">FrissDrank</a>
+      <a href="Warmedrank.php">WarmeDrank</a>
+    </div>
+  </div> 
 </div> 
 </body>
 </html>
