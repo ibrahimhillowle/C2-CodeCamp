@@ -27,7 +27,7 @@ body {
 
 .navbar {
   overflow: hidden;
-  background-color: #26272b; 
+  background-color: #26272b;
 }
 
 .navbar a {
@@ -58,7 +58,7 @@ body {
 }
 
 .subnav .subnavbtn {
-  font-size: 14px;  
+  font-size: 14px;
   border: none;
   outline: none;
   color: white;
@@ -78,6 +78,14 @@ body {
 
 .orange{
   background-color: #b97d4b;
+}
+
+.orange2{
+  background-color: #FFA500;
+}
+
+.purple{
+  background-color: #800080;
 }
 
 .linkP{
@@ -128,7 +136,7 @@ body {
 }
 
 footer{
-  margin-top: 40px;
+  margin-top: auto;
 }
 
 
@@ -159,9 +167,6 @@ footer{
   padding: 20px 0;
 }
 
-.container img{
-  padding-top: 20px;
-}
 
 .song{
   display: flex;
@@ -201,7 +206,7 @@ box-shadow: 26px 10px 15px -3px rgba(0,0,0,0.1);
   justify-content: space-between;
   align-items: center;
   padding: 10px;
-  
+
 }
 
 .videoLinks a{
@@ -227,4 +232,27 @@ box-shadow: 26px 10px 15px -3px rgba(0,0,0,0.1);
 
 .Vlink-3{
   padding: 10px;
+}
+
+.WarmeDranken{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 50px;
+
+}
+
+.WarmeDranken-1 img{
+  width: 200px;
+  border-radius: 4%;
+}
+
+.WarmeDranken-2 img{
+  width: 200px;
+  border-radius: 4%;
+}
+
+.WarmeDranken-3 img{
+  width: 200px;
+  border-radius: 4%;
 }
