@@ -4,7 +4,7 @@
 <?php require_once 'head.php'; ?>
     <title>Muse - Uprising</title>
 </head>
-<body class="orange">
+<body class="orange2">
 <?php require_once 'header.php'; ?>
 
 
