@@ -10,7 +10,7 @@
     <h2 STYLE="font-style: italic; color: #737373;">Kan ook warm gedronken worden ~ Toon</h2>
 <div class="song">
 
-    <p class ="lyrics">
+    <p class ="informatie">
         Coca-Cola is een merk cola. 
         Het is een suikerhoudende koolzuurhoudende frisdrank die wordt verhandeld door The Coca-Cola Company. 
         Het is sinds 1893 als handelsmerk geregistreerd. Inmiddels zijn het logo,
@@ -23,8 +23,10 @@
         Om de bittere smaak van de kolanoten te neutraliseren voegde hij er suikersiroop aan toe en noemde het drankje Coca-Cola. 
         Het werd verkocht in kruikjes en moest worden aangelengd met water. 
         Toen men de siroop ging mengen met koolzuurhoudend water ontstond de prikkelende drank met de kenmerkende colasmaak
-    <img class="FrissdrankImg" src="img/cola.png" alt="CocaCola">
-    </p>
+        <a href="rogermoore.php">Roger moore></a>
+        <img class="FrissdrankImg" src="img/cola.png" alt="CocaCola">
+     </p>
+
    
 
 
