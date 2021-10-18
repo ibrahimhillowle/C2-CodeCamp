@@ -128,7 +128,7 @@ body {
 }
 
 footer{
-  margin-top: auto;
+  margin-top: 40px;
 }
 
 
@@ -159,6 +159,9 @@ footer{
   padding: 20px 0;
 }
 
+.container img{
+  padding-top: 20px;
+}
 
 .song{
   display: flex;
