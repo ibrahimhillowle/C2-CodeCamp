@@ -5,3 +5,7 @@ Code voor groen: #317f43
 Code voor blauw: #4682b4
 
 Code voor oranje (bruin) #b97d4b
+
+Code voor oranje2: #FFA500
+
+Code voor paars: #800080
