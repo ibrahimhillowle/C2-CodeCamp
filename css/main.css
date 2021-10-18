@@ -241,20 +241,30 @@ box-shadow: 26px 10px 15px -3px rgba(0,0,0,0.1);
   padding: 50px;
 
 }
+.WarmeDranken-1, .WarmeDranken-2, .WarmeDranken-3{
+  background-color: white;
+  border-style: solid;
+  border-width: 2px;
+  margin: 20px;
+  border-radius: 5%;
+}
 
 .WarmeDranken-1 img{
   width: 200px;
   border-radius: 4%;
+  margin-bottom: 10px;
 }
 
 .WarmeDranken-2 img{
   width: 200px;
   border-radius: 4%;
+  margin-bottom: 10px;
 }
 
 .WarmeDranken-3 img{
   width: 200px;
   border-radius: 4%;
+  margin-bottom: 10px;
 }
 
 .img-container {
