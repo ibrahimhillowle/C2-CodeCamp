@@ -27,6 +27,7 @@
         <a href="darthvader.php">Darth vader</a>
         <a href="timothydalton.php">Timothy dalton</a>
         <a href="lukeskywalker.php">Luke skywalker</a>
+        <a href="georgeclooney.php">George clooney</a>
       </div>
     </div>
 
