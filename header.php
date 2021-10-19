@@ -34,10 +34,10 @@
     <div class="subnav">
       <button class="subnavbtn">Songteksten <i class="fa fa-caret-down"></i></button>
       <div class="subnav-content">
-        <a href="madness-van-muse.php">Madness - muse</a>
+        <a href="Madness-van-Muse.php">Madness - muse</a>
         <a href="Transylvia-Iron-Maiden.php">Transylvia - Iron maiden</a>
         <a href="Plug-in-baby-van-Muse.php">Plug in baby - Muse</a>
-        <a href="bohemianrhapsody.php">Bohemian rhapsody - queen</a>
+        <a href="BohemianRhapsody.php">Bohemian rhapsody - queen</a>
         <a href="killerqueen.php">Killer queen - Queen</a>
         <a href="wearethechampions.php">We are the champions - Queen</a>
         <a href="uprising-baby.php">Uprising - My baby</a>
@@ -59,8 +59,8 @@
     <div class="subnav">
       <button class="subnavbtn">gereedschap <i class="fa fa-caret-down"></i></button>
       <div class="subnav-content">
-        <a href="cirkelzaag.php">Cirkelzaag</a>
-        <a href="kettingzaag.php">Kettingzagen</a>
+        <a href="Cirkelzaag.php">Cirkelzaag</a>
+        <a href="Kettingzaag.php">Kettingzagen</a>
         <a href="schroevendraaiers.php">schroevendraaiers</a>
         <a href="handzagen.php">handzaag</a>
         <a href="hamer.php">Hamer</a>
