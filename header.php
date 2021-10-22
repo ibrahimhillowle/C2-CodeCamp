@@ -26,7 +26,7 @@
     <div class="dropdown-content">
       <a href="hamer.php">hamer</a>
       <a href="handzagen.php">handzagen</a>
-      <a href="Kettingzaag.php">handzagen</a>
+     
       <a href="cirkelzaag.php">cirkelzaag</a>
       <a href="schroevendraaiers.php">schroevendraaiers</a>
     </div>
