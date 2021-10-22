@@ -340,3 +340,7 @@ box-shadow: 26px 10px 15px -3px rgba(0,0,0,0.1);
   display: flex;
   justify-content: center;
 }
+
+.logo img{
+  width: 200px;
+}
