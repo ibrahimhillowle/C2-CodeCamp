@@ -13,14 +13,10 @@
 <a href="index.php"><img src="" alt="">Logo</a>
 </div>
    <div class="dropdown">
-    <button class="dropbtn">dranken 
-      <i class="fa fa-caret-down"></i>
-    </button>
-    <div class="dropdown-content">
-      <a href="#">Link 1</a>
-      <a href="#">Link 2</a>
-      <a href="#">Link 3</a>
-    </div>
+    <a href="dranken.php">Dranken</a>
+     
+    
+
   </div>
 
   <div class="dropdown">
@@ -28,22 +24,22 @@
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">
-      <a href="/tools/hamer.php">hamer</a>
-      <a href="./tools/handzagen.php">handzagen</a>
-      <a href="./tools/Kettingzaag.php">handzagen</a>
-      <a href="./tools/cirkelzaag.php">cirkelzaag</a>
-      <a href="./tools/schroevendraaiers.php">schroevendraaiers</a>
+      <a href="hamer.php">hamer</a>
+      <a href="handzagen.php">handzagen</a>
+      <a href="Kettingzaag.php">handzagen</a>
+      <a href="cirkelzaag.php">cirkelzaag</a>
+      <a href="schroevendraaiers.php">schroevendraaiers</a>
     </div>
   </div> 
-   <a href="#about">song</a>
+   <a href="song.php">song</a>
    <div class="dropdown">
     <button class="dropbtn">informatie 
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">
-      <a href="#">Link 1</a>
-      <a href="#">Link 2</a>
-      <a href="#">Link 3</a>
+        <a href="film.php">Film</a>
+        <a href="#">Link 2</a>
+        <a href="#">Link 3</a>
     </div>
   </div>
    <div class="dropdown">
@@ -52,7 +48,7 @@
     </button>
     <div class="dropdown-content">
       <a href="boeken.php">Boeken</a>
-      <a href="#">Link 2</a>
+      <a href="video.php">Film links</a>
       <a href="#">Link 3</a>
     </div>
   </div>

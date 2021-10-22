@@ -17,11 +17,11 @@ p {text-align: center;}
 
 <div class="container">
 
-    <h1>Warme Dranken</h1>
+    <h1>Dranken</h1>
     <div class="WarmeDranken">
         <div class="WarmeDranken-1">
             <h1>
-             Koffie
+             WarmeDranken
             </h1>
             <div class="img-container">
             <img src="img/koffie.jpg" alt="Koffie">
@@ -31,7 +31,7 @@ p {text-align: center;}
         </div>
         <div class="WarmeDranken-2">
             <h1>
-              Thee
+              Frissdrank
             </h1>
             <div class="img-container">
             <img src="img/thee.jpg" alt="Thee">
