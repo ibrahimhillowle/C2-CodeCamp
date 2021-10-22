@@ -29,7 +29,8 @@ body {
   overflow: hidden;
   display: flex;
 justify-content: space-around;
-  background-color: #333;
+  background-color: #ffff;
+  box-shadow: 2px 2px 5px rgba(0,0,0,0.1);
 }
 
 
@@ -37,7 +38,7 @@ justify-content: space-around;
 .topnav a {
   float: right;
   display: block;
-  color: #f2f2f2;
+  color: black;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -46,7 +47,7 @@ justify-content: space-around;
 
 .active {
   background-color: #04AA6D;
-  color: white;
+  color: black;
 }
 
 .topnav .icon {
@@ -62,7 +63,7 @@ justify-content: space-around;
   font-size: 17px;    
   border: none;
   outline: none;
-  color: white;
+  color: black;
   padding: 14px 16px;
   background-color: inherit;
   font-family: inherit;
