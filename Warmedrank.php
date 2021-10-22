@@ -26,8 +26,8 @@ p {text-align: center;}
             <div class="img-container">
             <img src="img/koffie.jpg" alt="Koffie">
             </div>
-            <p>Koffie is een warme drank die wordt bereid op basis van water
-              en gedroogde en gebrande pitten van de koffieplant.</p>
+            <p>cola is een warme drank die wordt bereid op basis van water
+              en gedroogde en gebrande pitten van de colaplant.</p>
         </div>
         <div class="WarmeDranken-2">
             <h1>
