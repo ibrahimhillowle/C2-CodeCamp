@@ -92,8 +92,8 @@ justify-content: space-around;
 }
 
 .topnav a:hover, .dropdown:hover .dropbtn {
-  background-color: #555;
-  color: white;
+  background-color: #ddd;
+  color: black;
 }
 
 .dropdown-content a:hover {
