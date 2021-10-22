@@ -10,7 +10,7 @@
 <body>
 <div class="topnav" id="myTopnav">
 <div class="logo">
-<a href="index.php"><img src="" alt="">Logo</a>
+<a href="index.php"><img src="img/logo.png" alt="logo"></a>
 </div>
    <div class="dropdown">
     <a href="dranken.php">Dranken</a>
