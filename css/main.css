@@ -33,7 +33,10 @@ justify-content: space-around;
   box-shadow: 2px 2px 5px rgba(0,0,0,0.1);
 }
 
-
+.logo img{
+  width: 34%;
+  align-self: flex-start;
+}
 
 .topnav a {
   float: right;
