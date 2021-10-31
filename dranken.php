@@ -20,24 +20,22 @@ p {text-align: center;}
     <h1>Dranken</h1>
     <div class="WarmeDranken">
         <div class="WarmeDranken-1">
-            <h1>
-             WarmeDranken
+            <h1><a href="Warmedrank.php">
+             WarmeDranken</a>
             </h1>
             <div class="img-container">
-            <img src="img/koffie.jpg" alt="Koffie">
+            <a href="Warmedrank.php"><img src="img/koffie.jpg" alt="Koffie"></a>
             </div>
-            <p>Koffie is een warme drank die wordt bereid op basis van water
-              en gedroogde en gebrande pitten van de koffieplant.</p>
+            <p>Pagina vol Warme dranken</p>
         </div>
         <div class="WarmeDranken-2">
-            <h1>
-              Frissdrank
+            <h1><a href="frisdrank.php">
+              Frissdrank</a>
             </h1>
-            <div class="img-container">
-            <img src="img/thee.jpg" alt="Thee">
+            <div class="img-container"><a href="frisdrank.php">
+            <img src="img/7Up.png" alt="7Up"></a>
             </div>
-            <p>Thee is een warme drank die wordt gemaakt door infusie van
-              de gedroogde bladeren van de theeplant Camellia sinensis.</p>
+            <p>Pagina vol Frisdrank</p>
         </div>
 
     </div>
