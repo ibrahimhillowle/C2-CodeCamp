@@ -20,20 +20,20 @@
   </div>
 
   <div class="dropdown">
-    <button class="dropbtn">gereedschap 
+    <button class="dropbtn">Gereedschap 
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">
-      <a href="hamer.php">hamer</a>
-      <a href="handzagen.php">handzagen</a>
+      <a href="hamer.php">Hamer</a>
+      <a href="handzagen.php">Handzagen</a>
      
-      <a href="cirkelzaag.php">cirkelzaag</a>
-      <a href="schroevendraaiers.php">schroevendraaiers</a>
+      <a href="cirkelzaag.php">Cirkelzaag</a>
+      <a href="schroevendraaiers.php">Schroevendraaiers</a>
     </div>
   </div> 
-   <a href="song.php">song</a>
+   <a href="song.php">Song</a>
    <div class="dropdown">
-    <button class="dropbtn">informatie 
+    <button class="dropbtn">Informatie 
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">
@@ -43,7 +43,7 @@
     </div>
   </div>
    <div class="dropdown">
-    <button class="dropbtn">overige 
+    <button class="dropbtn">Overige 
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">

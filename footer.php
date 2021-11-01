@@ -9,7 +9,7 @@
               <li>Phone: 0611228837</li>
               <li>Adress: Terheijdenseweg 350, 4826 AA Breda</li>
             </ul>
-            <p class="copyright-text">Copyright &copy; 2021 All Rights Reserved by 
+            <p class="copyright-text">Copierecht &copy; 2021 Alle rechten voorbehouden door
               <a href="#">Codecamp</a>
             </p>
           </div>
