@@ -28,7 +28,7 @@ body {
 .topnav {
   overflow: hidden;
   display: flex;
-justify-content: space-around;
+  justify-content: space-around;
   background-color: #ffff;
   box-shadow: 2px 2px 5px rgba(0,0,0,0.1);
 }
@@ -312,14 +312,21 @@ box-shadow: 26px 10px 15px -3px rgba(0,0,0,0.1);
   justify-content: space-between;
   align-items: center;
   padding: 50px;
-
+  
 }
 .WarmeDranken-1, .WarmeDranken-2, .WarmeDranken-3{
   background-color: white;
   border-style: solid;
   border-width: 2px;
-  margin: 20px;
+  padding: 20px;
   border-radius: 5%;
+}
+.wit{
+  color: white;
+}
+.WarmeDranken, a{
+  text-decoration: none;
+  color: black;
 }
 
 .WarmeDranken-1 img{
