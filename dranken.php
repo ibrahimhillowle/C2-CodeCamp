@@ -30,7 +30,7 @@ p {text-align: center;}
         </div>
         <div class="WarmeDranken-2">
             <h1><a href="frisdrank.php">
-              Frissdrank</a>
+              Frisdrank</a>
             </h1>
             <div class="img-container"><a href="frisdrank.php">
             <img src="img/7Up.png" alt="7Up"></a>
