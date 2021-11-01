@@ -11,12 +11,10 @@
     
     <div class="song">
     <a href="Plug-in-baby-van-Muse.php">Plug-in-baby-van-Muse</a>
-    <a href="Plug-in-baby-van-Muse.php">Madness-van-Muse</a>
-    <a href="Plug-in-baby-van-Muse.php">Plug-in-baby-van-Muse</a>
+    <a href="Madness-van-Muse.php">Madness-van-Muse</a>
     <a href="uprising-muse.php">uprising-muse</a>
     <a href="uprising-baby.php">uprising-baby</a>
     <a href="BohemianRhapsody.php">BohemianRhapsody</a>
-    <a href="Plug-in-baby-van-Muse.php">Plug-in-baby-van-Muse</a>
     </div>
 </div>
 
