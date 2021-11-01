@@ -17,7 +17,7 @@ p {text-align: center;}
 
 <div class="container">
 
-    <h1>Dranken</h1>
+    <h1 class="wit">Dranken</h1>
     <div class="WarmeDranken">
         <div class="WarmeDranken-1">
             <h1><a href="Warmedrank.php">
