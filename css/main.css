@@ -242,12 +242,16 @@ footer{
 }
 
 
-.song{
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding: 10px;
+.song ul{
+  list-style-type: none;
+display: table;
+padding: 20px;
+margin: 0 auto ;
+}
 
+.song li{
+  padding: 10px;
+  font-size: 20px;
 }
 
 .lyrics{
