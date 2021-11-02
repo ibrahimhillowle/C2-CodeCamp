@@ -31,6 +31,7 @@ body {
   justify-content: space-around;
   background-color: #ffff;
   box-shadow: 2px 2px 5px rgba(0,0,0,0.1);
+  align-items: center;
 }
 
 .logo img{
@@ -355,3 +356,4 @@ box-shadow: 26px 10px 15px -3px rgba(0,0,0,0.1);
 .logo img{
   width: 200px;
 }
+
