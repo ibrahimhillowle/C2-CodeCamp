@@ -363,3 +363,30 @@ box-shadow: 26px 10px 15px -3px rgba(0,0,0,0.1);
   width: 200px;
 }
 
+.Boek img{
+  width: 100%;
+  max-width: 400px;
+  height: auto;
+  padding-top: 10px;
+  margin-bottom: 20px;
+}
+
+.boekenlijst{
+  margin: 10px;
+
+}
+
+.boe p{
+  margin: 20px;
+  padding: 20px;
+ 
+}
+
+.Boek h2{
+  padding-bottom: 10px;
+}
+
+.Boek{
+  width: 100%;
+  height: auto;
+}

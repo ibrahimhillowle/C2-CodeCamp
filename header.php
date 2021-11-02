@@ -38,6 +38,7 @@
     </button>
     <div class="dropdown-content">
         <a href="film.php">Film</a>
+        <a href="boeken.php">Boeken</a>
         <a href="jamesbond.php">jamesbond</a>
         <a href="#">Link 3</a>
     </div>
@@ -47,7 +48,7 @@
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">
-      <a href="boeken.php">Boeken</a>
+     
       <a href="video.php">Film links</a>
       <a href="#">Link 3</a>
     </div>
