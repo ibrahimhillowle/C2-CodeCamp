@@ -27,6 +27,7 @@ p {text-align: center;}
             <img src="img/koffie.jpg" alt="Koffie">
             </div>
             <p>Koffie is een meestal warm genuttigde drank, die wordt bereid op basis van water en gedroogde en gebrande pitten van de koffieplant.</p>
+            <a href="georgeclooney.php">George Clooney</a>
         </div>
         <div class="WarmeDranken-2">
             <h1>
