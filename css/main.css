@@ -93,12 +93,12 @@ body {
 }
 
 .topnav a:hover, .dropdown:hover .dropbtn {
-  background-color: #ddd;
+
   color: black;
 }
 
 .dropdown-content a:hover {
-  background-color: #ddd;
+  
   color: black;
 }
 
