@@ -393,12 +393,30 @@ box-shadow: 26px 10px 15px -3px rgba(0,0,0,0.1);
   height: auto;
 }
 
-.acteurs{
- display: flex;
-justify-content: space-around;
+.flex-container{
+  display: flex;
 }
 
-.characters{
-display: flex;
-justify-content: start;
+.personage a{
+  display: flex;
+  justify-content: flex-start;
+  align-content: space-between;
+
+}
+
+.acteurs a{
+  display: flex;
+justify-content: flex-start;
+  padding: 10px;
+  flex-direction:row;
+}
+
+.over-acteurs{
+  margin-bottom: 20px;
+  margin-top: 30px;
+}
+
+.over-personage{
+  margin-bottom: 20px;
+
 }
