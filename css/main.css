@@ -38,9 +38,12 @@ img, .logocrop{
   align-items: center;
 }
 
-.logo img{
-  width: 34%;
-  align-self: flex-start;
+.hero{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  padding-top: 50px;
 }
 
 .topnav a {
@@ -400,6 +403,6 @@ justify-content: space-around;
 }
 
 .characters{
-  display: flex;
+display: flex;
 justify-content: start;
 }
