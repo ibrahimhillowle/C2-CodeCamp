@@ -25,6 +25,10 @@ body {
   flex-direction: column;
 }
 
+ .logocrop{
+  margin-left: 375px;
+  margin-top: 50px;
+}
 .topnav {
   overflow: hidden;
   display: flex;
