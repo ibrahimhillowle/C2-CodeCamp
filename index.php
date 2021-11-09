@@ -11,7 +11,7 @@
 <div class="container">
     <h1>Over deze website.</h1>
     <p>Deze website heeft voor ieder wat wils. van songteksten tot informatie over verschillende soorten gereedschap. Ook kan je verschillende info vinden over films.</p>
-    <img class = "logo" src="img/logo.png" alt="">
+    <img class = "logocrop" src="img/logocrop.png" width="200px" alt="">
 </div>
     
     
