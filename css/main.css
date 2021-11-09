@@ -25,7 +25,7 @@ body {
   flex-direction: column;
 }
 
-img, .logocrop{
+ .logocrop{
   margin-left: 375px;
   margin-top: 50px;
 }
