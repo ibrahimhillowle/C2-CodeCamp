@@ -14,6 +14,7 @@
     De tanden van de zaag (met een lengte van circa 5 mm elk) zijn 'gezet', dat wil zeggen dat ze om beurten naar links en naar rechts zijn gebogen. De zetting bedraagt een derde van de bladdikte naar links en een derde naar rechts. Dit zorgt voor een bredere zaagsnede zodat het zaagblad niet in het hout klemt en vastloopt. Om gemakkelijk te kunnen zagen dienen de tanden niet alleen gezet, maar ook scherp te zijn.
 
     </p>
+    <img src="img/handzaag.jpg" alt="">
   
 
 </div>
