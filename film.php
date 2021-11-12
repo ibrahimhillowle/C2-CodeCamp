@@ -33,11 +33,11 @@
 
       <h2><a href="rogermoore.php">Roger Moore</a></h2>
 
-      <h2><a href="georgeclooney.php">georgeclooney</a></h2>
+      <h2><a href="georgeclooney.php">George Clooney</a></h2>
 
     </div>
     <div class="over-personage">
-      <h2>personage</h2>
+      <h2>Personage</h2>
       <p>Een personage is de uitbeelding van een persoon in een verhalend of dramatisch kunstwerk zoals een roman,
         toneelstuk of film. Personages ondergaan of veroorzaken de gebeurtenissen in een verhaal.
 
@@ -54,13 +54,13 @@
 
     <div class="personage">
 
-      <h2><a href="lukeskywalker.php">lukeskywalker</a></h2>
+      <h2><a href="lukeskywalker.php">Luke Skywalker</a></h2>
 
 
-      <h2><a href="darthvader.php">darthvader</a></h2>
+      <h2><a href="darthvader.php">Darth Vader</a></h2>
 
 
-      <h2><a href="timothydalton.php">timothydalton</a></h2>
+      <h2><a href="timothydalton.php">Timothy Dalton</a></h2>
     </div>
 
 

@@ -8,7 +8,7 @@
 <body class="groen">
 <?php require_once 'header.php'; ?>
 <div class="container">
-    <h1>Informatie over luke skywalker:</h1>
+    <h1>Informatie over Luke Skywalker:</h1>
     <br>
     <div class="informatie">
     <p>Luke Skywalker is een personage uit de Star Warssaga, gespeeld door acteur Mark Hamill. Luke is de tweelingbroer van prinses Leia. Hun ouders zijn Padmé Amidala en Anakin Skywalker. Skywalker werd opgevoed door zijn oom Owen Lars en tante Beru Whitesun Lars.
