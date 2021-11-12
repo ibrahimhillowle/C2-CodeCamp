@@ -371,7 +371,7 @@ box-shadow: 26px 10px 15px -3px rgba(0,0,0,0.1);
 
 .Boek img{
   width: 100%;
-  max-width: 400px;
+  max-width: 200px;
   height: auto;
   padding-top: 10px;
   margin-bottom: 20px;
@@ -382,9 +382,8 @@ box-shadow: 26px 10px 15px -3px rgba(0,0,0,0.1);
 
 }
 
-.boe p{
-  margin: 20px;
-  padding: 20px;
+.Boek p{
+font-size: 20px;
 
 }
 

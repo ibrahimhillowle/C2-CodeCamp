@@ -17,7 +17,9 @@
       afbeeldingen of allebei. Daarnaast wordt met de term de betreffende informatie, of een soortgelijke verzameling
       informatie, aangeduid ('een boek schrijven', 'een boek downloaden'). Het woord 'boek' is vermoedelijk afkomstig
       van het Germaanse woord voor beuk, boche. De omslagen van de eerste boeken werden namelijk gemaakt van een
-      rechthoekig stuk (beuken)hout.</p>
+      rechthoekig stuk (beuken)hout.
+      <br>
+    </p>
     <img src="img/boek.jpg" alt="Foto van een boek" width="970px">
     <div class="boekenlijst">
       <div class="Boek">
@@ -34,14 +36,16 @@
           tHGttG) is a comedy science fiction franchise created by Douglas Adams. Originally a 1978 radio comedy
           broadcast on BBC Radio 4, it was later adapted to other formats, including stage shows, novels, comic books, a
           1981 TV series, a 1984 video game, and 2005 feature film.
-
+          <br>
+          <br>
           The Hitchhiker's Guide to the Galaxy has become an international multi-media phenomenon; the novels are the
           most widely distributed, having been translated into more than 30 languages by 2005.[4][5] The first novel,
           The Hitchhiker's Guide to the Galaxy (1979), has been ranked fourth on the BBC’s The Big Read poll.[6] The
           sixth novel, And Another Thing, was written by Eoin Colfer with additional unpublished material by Douglas
           Adams. In 2017, BBC Radio 4 announced a 40th-anniversary celebration with Dirk Maggs, one of the original
           producers, in charge.[7] The first of six new episodes was broadcast on 8 March 2018.[8]
-
+          <br>
+          <br>
           The broad narrative of Hitchhiker follows the misadventures of the last surviving man, Arthur Dent, following
           the demolition of the Earth by a Vogon constructor fleet to make way for a hyperspace bypass. Dent is rescued
           from Earth's destruction by Ford Prefect—a human-like alien writer for the eccentric, electronic travel guide
@@ -59,16 +63,19 @@
         later onder aanvoering van maarschalk Michail Koetoezov en zijn generaals Michail Barclay de Tolly en Pjotr
         Bagration. Het verhaal wisselt beschrijvingen van het leven bij de adellijke families thuis af met uitvoerige
         beschrijvingen van de veldslagen.
-
+        <br>
+        <br>
         Prins Andrej Bolkonski dient in het leger als officier. Als bij de geboorte van zijn zoon zijn vrouw overlijdt,
         kan hij het niet opbrengen om bij zijn familie te blijven. Hij neemt deel in diverse grote veldslagen, waarbij
         hij de dood meermalen in de ogen ziet.
-
+        <br>
+        <br>
         Pierre Bezoechov is een feestbeest en de bastaardzoon van een schatrijke graaf, die op sterven ligt. Als de
         graaf overlijdt, is hij ineens schatrijk. Hij trouwt met de intrigante Helena Koeragina. Pierre komt vervolgens
         tot bezinning over zijn levenswijze. Hij sluit zich aan bij de vrijmetselaars. Na het aanschouwen van de slag
         bij Borodino keert hij te voet terug naar Moskou, waar hij later gevangengenomen wordt door de Fransen.
-
+        <br>
+        <br>
         Natasja Rostova is een jong meisje uit een verarmd geslacht van Russische landadel. Haar vader hoopt, door haar
         uit te huwelijken aan Andrej Bolkonski, met de bruidsschat de familiebezittingen te kunnen behouden. Natasja
         wordt verliefd op Bolkonski en verlooft zich met hem. Ze wordt echter verleid door Anatole Koeragin en beëindigt
@@ -77,7 +84,8 @@
         huwelijk kan echter niet meer plaatsvinden, want Bolkonski sterft alsnog aan zijn verwondingen. Natasja wordt
         daarna verliefd op Pierre Bezoechov, die inmiddels door de Russen bevrijd is. Pierres vrouw Helena is intussen
         gestorven en Natasja en Pierre trouwen niet veel later.
-
+        <br>
+        <br>
         Er zijn verschillende versies van het boek in omloop.[1] Ze verschillen sowieso in lengte en het gebruik van de
         Franse taal in dit Russische boek. In zijn eerste opgeleverde versie, de oerversie, met minder filosofische
         uitweidingen, overleeft vorst Andrej de Slag bij Borodino.[2] Deze versie, die Tolstoj aanvankelijk de titel
@@ -95,7 +103,8 @@
         England. Unknown to Bond, Drax is German, an ex-Nazi now working for the Soviets; his plan is to build the
         rocket, arm it with a nuclear warhead, and fire it at London. Uniquely for a Bond novel, Moonraker is set
         entirely in Britain, which raised comments from some readers, complaining about the lack of exotic locations.
-
+        <br>
+        <br>
         Moonraker, like Fleming's previous novels, was well received by critics. It plays on several 1950s fears,
         including attack by rockets (following the V-2 strikes of the Second World War), nuclear annihilation, Soviet
         communism, the re-emergence of Nazism and the "threat from within" posed by both ideologies. Fleming examines
@@ -114,12 +123,14 @@
         disappearance in Jamaica of two fellow MI6 operatives. He establishes that they had been investigating Doctor
         No, a Chinese operator of a guano mine on the fictional Caribbean island of Crab Key. Bond travels to the island
         and meets Honeychile Rider and later Doctor No.
-
+        <br>
+        <br>
         The novel began as a 1956 screenplay for the producer Henry Morgenthau III for a proposed television show
         entitled Commander Jamaica. When those plans foundered, Fleming adapted the ideas as the basis for a novel,
         provisionally titled The Wound Man. The book's eponymous villain was influenced by Sax Rohmer's Fu Manchu
         stories.
-
+        <br>
+        <br>
         Dr. No was the first of Fleming's novels to face widespread negative criticism in Britain; Paul Johnson of the
         New Statesman dismissed the book as one of "Sex, Snobbery and Sadism".[1] When released on the American market
         it was received more favourably. Dr. No was serialised in the Daily Express, first in an abridged story form and
@@ -133,8 +144,8 @@
       <p>Turks Fruit is a Dutch novel written by Jan Wolkers in 1969. Wolkers based the character Olga on his second
         wife Annemarie Nauta, his third wife Karina Gnirrep and photographer and poet Ida Sipora. In 2017, Sam Garrett
         published an English translation of the novel entitled Turkish Delight.
-
-
+        <br>
+          <br>
         Turks Fruit begins with the unnamed lead character, a sculptor, lying on his bed and thinking about Olga, who
         has left him. He first met her when he was hitchhiking and she picked him up and succumbed to his charms. When
         they started driving again, they were in a non-lethal car crash. Two months later they met again and married.
@@ -145,13 +156,15 @@
         she secretly fed him fat. The sculptor saw her doing it and considers it to be murder. He never tells Olga or
         her father. Olga's mother also cheats and the father knows it, but doesn't mind. One of the mother's breasts was
         amputated because she had breast cancer.
-
+        <br>
+        <br>
         After the sculptor describes Olga's parents, he describes his sexual relations with her, which was very
         important. During a dinner, the sculptor witnesses Olga flirting with someone her parents know. She goes to the
         bathroom with him, where he hits her. She leaves him and returns to her mother. After she leaves, the sculptor
         has short relationships with other women, but none as good as Olga. Olga has several relationships and marriages
         after the sculptor, but none equal the first.
-
+        <br>
+        <br>
         Olga discovers she has an inoperable brain tumor and tells the sculptor. He visits her in the hospital nearly
         every day for six months, until she dies. She slowly loses her hair and the sculptor buys her a red wig. She is
         afraid that her teeth will fall out, so she only eats Turkish delight, explaining the title. Olga dies on an
