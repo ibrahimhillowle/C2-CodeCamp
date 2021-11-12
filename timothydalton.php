@@ -8,7 +8,7 @@
 <body class="groen">
 <?php require_once 'header.php'; ?>
 <div class="container">
-    <h1>Informatie over timothy dalton:</h1>
+    <h1>Informatie over Timothy Dalton:</h1>
     <br>
     <div class="informatie">
     <p>Dalton groeide op in Manchester. Nadat hij zijn school had afgemaakt, ging hij naar het National Youth Theatre. Hij studeerde twee jaar lang aan de Royal Academy of Dramatic Art. In 1966 ging hij naar het Birmingham Repertory Theatre, waar hij hoofdrollen speelde.

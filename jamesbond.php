@@ -1,14 +1,14 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Codecamp</title>
+    <title>James Bond</title>
     <?php require_once 'head.php'; ?>
 </head>
 
 <body>
 <?php require_once 'header.php'; ?>
 <div class="container">
-    <h1>Lijst met alle jamesbond films:</h1>
+    <h1>Lijst met alle James Bond films:</h1>
     <br>
     <ul>
         <li>Dr.no</li>
